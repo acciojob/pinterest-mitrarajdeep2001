@@ -6,7 +6,7 @@
 img{
 	width:350px;
 	height:200px;
-	background-size:cover;
+	object-fit:cover;
 }
 .some_text{
 	width:250px;
