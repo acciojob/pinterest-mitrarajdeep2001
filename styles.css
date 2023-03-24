@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+.hero{
+	display:flex;
+	gap:30px;
+}
+img{
+	width:350px;
+	height:200px;
+/* 	background-clip: padding-box; */
+}
+.some_text{
+	width:250px;
+	text-align:center;
+}
+.button{
+	background:red;
+	color:white;
+	border-radius:8px;
+	height:35px;
+}
