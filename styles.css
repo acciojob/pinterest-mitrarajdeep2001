@@ -6,7 +6,7 @@
 img{
 	width:350px;
 	height:200px;
-/* 	background-clip: padding-box; */
+	background-size:cover;
 }
 .some_text{
 	width:250px;
